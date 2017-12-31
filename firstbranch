@@ -1,3 +1,8 @@
 liyunhua's first branch
 liyunhua's first branch
+<<<<<<< HEAD
 hello world
+=======
+liyunhua's first branch
+>>>>>>> origin/firstbranch
+上面两个是起冲突的文件内容 一个是本地git文件 一个是远程git文件 暂时都保留着吧
